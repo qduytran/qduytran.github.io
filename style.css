@@ -1,0 +1,27 @@
+body{
+    font-family: "Inter", sans-serif;
+    max-width:1000px;
+    margin:auto;
+    line-height:1.8;
+}
+
+h1{
+    color:#0d47a1;
+}
+
+h2{
+    margin-top:40px;
+    border-bottom:2px solid #eee;
+}
+
+img{
+    border-radius:50%;
+}
+
+table{
+    width:100%;
+}
+
+a{
+    color:#1565c0;
+}
