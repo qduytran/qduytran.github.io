@@ -6,7 +6,7 @@ permalink: /
 
 # Tran Quang Duy
 
-<img src="/assets/images/avatar.jpg" width="220"/>
+<img src="[/assets/images/avatar.jpg](https://github.com/qduytran/qduytran.github.io/blob/8e6a8dd60461754980dcc9461315ca1a8f8ff867/images/TranQuangDuy.png)" width="220"/>
 
 M.Sc. Student
 
