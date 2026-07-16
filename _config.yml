@@ -1,0 +1,12 @@
+title: Tran Quang Duy
+description: Personal Academic Website
+
+url: "https://qduytran.github.io"
+baseurl: ""
+
+theme: minima
+
+header_pages:
+  - publications.md
+  - cv.md
+  - other.md
