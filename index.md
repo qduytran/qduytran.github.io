@@ -6,7 +6,7 @@ permalink: /
 
 # Tran Quang Duy
 
-<img src="https://raw.githubusercontent.com/qduytran/qduytran.github.io/main/images/TranQuangDuy.png" width="220">
+<img src="https://raw.githubusercontent.com/qduytran/qduytran.github.io/main/assets/images/TranQuangDuy.png" width="220">
 M.Sc. Student
 
 University of Engineering and Technology (VNU-UET)
